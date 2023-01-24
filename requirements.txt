@@ -1,0 +1,4 @@
+pytz~=2020.5
+flask~=2.2.2
+flask_cors~=3.0.10
+pymongo[srv]~=3.12.3
